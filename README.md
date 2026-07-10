@@ -97,11 +97,6 @@ The model was trained on the **SMS Spam Collection Dataset** (`spam.csv`), which
 
 ---
 
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ## 🙋‍♂️ Author
 
